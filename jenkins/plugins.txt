@@ -19,3 +19,8 @@ chucknorris:0.9.1
 xvfb:1.1.2
 ws-cleanup:0.28
 ansicolor:0.4.2
+radiatorviewplugin:1.22
+rubyMetrics:1.5.0
+saferestart:0.3
+seleniumhq:0.4
+jobConfigHistory:2.0
