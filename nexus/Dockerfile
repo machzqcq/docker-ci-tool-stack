@@ -14,7 +14,7 @@ RUN yum -y update; \
 ##########################################################
 # Install Java JDK, SSH and other useful cmdline utilities
 ##########################################################
-RUN yum -y install java-1.7.0-openjdk-devel \
+RUN yum -y install java-1.8.0-openjdk-devel \
     which \
     telnet \
     unzip \
