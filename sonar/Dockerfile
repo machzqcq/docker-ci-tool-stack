@@ -26,7 +26,7 @@ ENV SONARQUBE_JDBC_URL jdbc:h2:tcp://localhost:9092/sonar
 
 ENV SONAR_VERSION 5.1.2
 
-ENV SONAR_DOWNLOAD_URL https://sonarsource.bintray.com/Distribution
+ENV SONAR_DOWNLOAD_URL https://binaries.sonarsource.com/Distribution
 
 # pub   2048R/D26468DE 2015-05-25
 #      Key fingerprint = F118 2E81 C792 9289 21DB  CAB4 CFCA 4A29 D264 68DE
